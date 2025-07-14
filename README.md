@@ -1,5 +1,5 @@
-- 👋 Hi my name is Daniel Aguilar and I am a senior at San Diego State University studying Computer Science
-- 🎉 I am graduating Spring 2025.
+- 👋 Hi my name is Daniel Aguilar
+- 🎉 I am graduate from San Diego State University.
 - 📌 Please feel free to check out my LinkedIn: linkedin.com/in/daguilar3/
 - 📫 You can reach me at my phone number: 310-408-6292 or email dannya10101@gmail.com
 <!-- - ⚠️ The project "Multithreaded Program with Semaphores" is not able to be shown to the public but I will happily display these projects by request. 
